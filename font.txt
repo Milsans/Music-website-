@@ -1,0 +1,8 @@
+font-family: 'Poppins', sans-serif;
+font-family: 'Andika', sans-serif;
+font-family: 'Arvo', serif;
+font-family: 'Baloo 2', cursive;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Varela Round', sans-serif;
